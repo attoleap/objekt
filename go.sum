@@ -128,8 +128,8 @@ github.com/sony/gobreaker v0.4.2-0.20210216022020-dd874f9dd33b h1:br+bPNZsJWKicw
 github.com/sony/gobreaker v0.4.2-0.20210216022020-dd874f9dd33b/go.mod h1:ZKptC7FHNvhBz7dN2LGjPVBz2sZJmc0/PkyDJOjmxWY=
 github.com/spf13/cast v1.5.0 h1:rj3WzYc11XZaIZMPKmwP96zkFEnnAmV8s6XbB2aY32w=
 github.com/spf13/cast v1.5.0/go.mod h1:SpXXQ5YoyJw6s3/6cMTQuxvgRl3PCJiyaX9p6b155UU=
-github.com/stephenafamo/bob v0.27.1 h1:QKU5BQ1sVnNgQ8kQqV7ZiBqKudVHTLF0lQOCVV8XEt4=
-github.com/stephenafamo/bob v0.27.1/go.mod h1:S/D3dAbBZjBOcts9iv4ywsJDApFK86s3bUBulCoT6kE=
+github.com/stephenafamo/bob v0.28.1 h1:yQaHuhP9HoCldoRIrhB7SwcHKMCCSw5499h7ETFcBLs=
+github.com/stephenafamo/bob v0.28.1/go.mod h1:S/D3dAbBZjBOcts9iv4ywsJDApFK86s3bUBulCoT6kE=
 github.com/stephenafamo/fakedb v0.0.0-20221230081958-0b86f816ed97 h1:XItoZNmhOih06TC02jK7l3wlpZ0XT/sPQYutDcGOQjg=
 github.com/stephenafamo/fakedb v0.0.0-20221230081958-0b86f816ed97/go.mod h1:bM3Vmw1IakoaXocHmMIGgJFYob0vuK+CFWiJHQvz0jQ=
 github.com/stephenafamo/scan v0.5.0 h1:1zDlY1PFnLB8MErWVil/vywAoZxGIdQS/y8nDiGU+/c=
